@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    background: #58FD05;
+  }
+  
+  .chronometer {
+    width: 400px;
+    height: 600px;
+    align-items: center;
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+  }
+  
+  h1 {
+    font-size: 30pt;
+  }
+  
+  button {
+    font-size: 15pt;
+    cursor: pointer;
+    border: none;
+    margin: 20px;
+    padding: 10px 20px;
+    transition: .3s;
+    color: white;
+    background: #58FD05;
+    border: solid white;
+  }
+  
+  button:hover {
+    background: white;
+    color: #58FD05;
+  }
